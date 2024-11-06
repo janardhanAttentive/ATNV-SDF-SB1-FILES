@@ -4,7 +4,11 @@
  * @NModuleScope SameAccount
  * 
  * Version  Date            Author           Remark
+<<<<<<< HEAD
  * 1.00     29 Oct 2023     Doug Humberd     Updates Collection Note records on Invoices when status is changed
+=======
+ * 1.00     29 Oct 2021     Doug Humberd     Updates Collection Note records on Invoices when status is changed
+>>>>>>> 161412835fdb5405a8c2950d6c51d3b3a89baecf
  *                          Doug Humberd     When Invoice Status changes to Paid in Full, close all collection note records.  When changed to Open, open most recent collection note record. 
  * 
  */
