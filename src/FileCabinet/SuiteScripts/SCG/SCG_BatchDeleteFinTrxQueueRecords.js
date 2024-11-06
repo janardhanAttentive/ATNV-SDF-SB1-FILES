@@ -2,7 +2,7 @@
 //RecordType = Custom Record Type ID
 //RecordID = Custom Record Internal ID
 var RecordType = 'customrecord_scg_sf_financial_trans'; //Sample ID
-var SearchID = 'customsearch459_2'; //Search ID of your selected records
+var SearchID = 'customsearch459_3'; //Search ID of your selected records
 //Search for the records that you want deleted
 var SearchResult = nlapiSearchRecord(RecordType,SearchID,null,null);
 //Create a Loop to delete each record
